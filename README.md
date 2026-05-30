@@ -44,10 +44,12 @@ Target:
 
 ## Example
 Input:
+Study Hours = 13
 Study Hours = 6
 
 Output:
-Predicted Marks ≈ 72
+Predicted Marks ≈ 100
+Predicted Marks ≈ 64
 
 <img width="332" height="315" alt="image" src="https://github.com/user-attachments/assets/12fc9e58-2280-46e4-b6d1-45d743a7766d" />
 <img width="979" height="631" alt="image" src="https://github.com/user-attachments/assets/c2041394-4637-402e-9a76-2a2ceeda7e8d" />
